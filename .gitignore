@@ -1,0 +1,11 @@
+**/signing/
+*.jks
+*.keystore
+**/password.txt
+**/build/
+**/dist/
+node_modules/
+**/__pycache__/
+*.pyc
+toolchain/
+qa/
